@@ -88,8 +88,7 @@ int main() {
                 }
             }
         }
-
-        // Resultado final
+        
         if (is_stack + is_queue + is_pq > 1) {
             printf("not sure\n");
         } else if (is_stack) {
